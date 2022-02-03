@@ -2,6 +2,8 @@
 
 **This is a very basic app that uses TypeScript, Express.js, Node.js. This app starts server with auth, routing and listens on port 3000 for connections.**
 
+* app used some advanced TS features: decorators, classes, enum
+
 ## Scripts
 
 Install node modules
